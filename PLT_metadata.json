@@ -1,0 +1,9 @@
+{
+  "name": "PLUTUS",
+  "symbol": "PLT",
+  "description": "PLUTUS is a token used on a platform that utilizes AI for automated stock trading programs.",
+  "extensions": {
+  },
+  "tags": ["AI, Trading, Bot"],
+  "image": "https://raw.githubusercontent.com/Bi9Snail/PLT/main/PLT_logo.jpg"
+}
